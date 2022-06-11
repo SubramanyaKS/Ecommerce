@@ -4,6 +4,10 @@ This is pratice problem from leetcode
 ## Problem List:
 [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
+[2. Add Two Number](https://leetcode.com/problems/add-two-numbers/)
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
 [26. Remove Duplicate From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 [75. Sort_colors](https://leetcode.com/problems/sort-colors/)
