@@ -18,7 +18,8 @@ This is pratice problem from leetcode
 
 [287. Find Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 
- 
+[876. Middle of the list](https://leetcode.com/problems/middle-of-the-linked-list/)
+
 ## Credits:
 
 * [Leetcode](https://leetcode.com/problems/all)
