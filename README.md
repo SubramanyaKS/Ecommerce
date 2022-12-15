@@ -1,5 +1,5 @@
 # Leetcode Problem 
-This is pratice problem from leetcode
+This is solution for the pratice problem from leetcode.The language used is Java. I solve these problems in a free Time.
 
 ## Problem List:
 [1. Two Sum](https://leetcode.com/problems/two-sum/)
@@ -24,4 +24,11 @@ This is pratice problem from leetcode
 
 * [Leetcode](https://leetcode.com/problems/all)
 * Geeks for Geeks
+
+
+## Contribute:
+
+
+If you want to contribute feel free to contribute to repository. 
+
 
